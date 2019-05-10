@@ -21,5 +21,7 @@ Tendo em vista a importância do conhecimento sobre a formação e posição de 
 ## Data
 
 Os dados usados neste Notebook foram extraídos do repositório abaixo: 
+
 The data used in this Notebook were extracted from the repository below:
+
 https://github.com/mouradmourafiq/tensorflow-lstm-regression
